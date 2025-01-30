@@ -4,8 +4,7 @@ using namespace std;
 /**
  * Defines a class named Complex to represent complex numbers. Performs mathematical
  * operations via member functions. Overloads the operators <<, >>, +, -, *, /, ==, !=.
- * Takes user input and tests their functionality in the main function. 
- * in the 
+ * Takes user input and tests their functionality in the main function.
  * @author     Jasmine Quach
  * @assignment ICS 212 Assignment 20
  * @date       December 5, 2024
